@@ -1,0 +1,37 @@
+{
+  "name": "dotfiles",
+  "version": "0.0.1",
+  "description": "Dotfiles for Tactical Projects",
+  "author": "Tactical",
+  "contributors": [
+    {
+      "name": "James Kyle",
+      "email": "me@thejameskyle.com",
+      "url": "https://twitter.com/thejameskyle"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tctcl/dotfiles/blob/master/LICENSE.md"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tctcl/dotfiles.git"
+  },
+  "main": "",
+  "homepage": "",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "bin": {
+  },
+  "preferGlobal": true
+}
