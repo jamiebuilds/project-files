@@ -7,7 +7,7 @@ module.exports = (grunt) ->
 
   # Grunt Tasks
   grunt.initConfig
-    meta: version: '0.0.3'
+    meta: version: '0.0.1'
 
     # Watch
     watch: dist:
