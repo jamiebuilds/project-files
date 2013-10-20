@@ -1,4 +1,4 @@
-Dotfiles [![Build Status](https://travis-ci.org/tctcl/{{Tactical Project}}.png?branch=master)](https://travis-ci.org/tctcl/{{Tactical Project}}) [![Dependency Status](https://david-dm.org/tctcl/{{Tactical Project}}.png)](https://david-dm.org/tctcl/{{Tactical Project}}) [![devDependency Status](https://david-dm.org/tctcl/{{Tactical Project}}/dev-status.png)](https://david-dm.org/tctcl/{{Tactical Project}}#info=devDependencies)
+Dotfiles [![NPM version](https://badge.fury.io/js/{{Tactical Project}}.png)](http://badge.fury.io/js/{{Tactical Project}}) [![Build Status](https://travis-ci.org/tctcl/{{Tactical Project}}.png?branch=master)](https://travis-ci.org/tctcl/{{Tactical Project}}) [![Dependency Status](https://david-dm.org/tctcl/{{Tactical Project}}.png)](https://david-dm.org/tctcl/{{Tactical Project}}) [![devDependency Status](https://david-dm.org/tctcl/{{Tactical Project}}/dev-status.png)](https://david-dm.org/tctcl/{{Tactical Project}}#info=devDependencies)
 ========
 
 Dotfiles for Tactical Projects
