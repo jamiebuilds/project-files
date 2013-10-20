@@ -1,6 +1,6 @@
 {
   "name": "{{Tactical Project}}",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "homepage": "http://github.com/tctcl/{{Tactical Project}}",
   "main": "dist/",
   "ignore": [
