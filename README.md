@@ -29,6 +29,10 @@ bower install {{Tactical Project}} --save-dev
 npm install {{Tactical Project}} --save-dev
 ```
 
+## Support
+
+Have a question or need help? Tweet [@thejameskyle](https://twitter.com/thejameskyle).
+
 ### License
 
 This project is provided under the terms of the [MIT License](LICENSE.md).
