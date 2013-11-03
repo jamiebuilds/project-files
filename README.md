@@ -33,6 +33,11 @@ npm install {{Tactical Project}} --save-dev
 
 Have a question or need help? Tweet [@thejameskyle](https://twitter.com/thejameskyle).
 
+
+## Contributing
+
+As an open-source project, contributions are more than welcome, they're extremely helpful and actively encouraged. If you see any room for improvement, open an [issue](https://github.com/tctcl/{{Tactical Project}}/issues) or submit a [pull request](https://github.com/tctcl/{{Tactical Project}}/pulls). Also make sure to take a look at the [contributing doc](CONTRIBUTING.md).
+
 ### License
 
 This project is provided under the terms of the [MIT License](LICENSE.md).
