@@ -17,7 +17,7 @@
       "url": "https://github.com/thejameskyle"
     }
   ],
-  "main": "",
+  "main": "dist/*",
   "repository": {
     "type": "git",
     "url": "git://github.com/tctcl/{{Tactical Project}}.git"
@@ -31,15 +31,14 @@
   ],
   "bin": {},
   "dependencies": {
+  },
+  "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-sass": "~0.5.0",
     "grunt-contrib-watch": "~0.5.3",
-    "grunt-init": "~0.2.1",
-    "colors": "~0.6.2"
+    "grunt-init": "~0.2.1"
   },
-  "devDependencies": {},
   "peerDependencies": {
-    "grunt": "~0.4.1"
   },
   "engines": {
     "node": ">=0.8.0",
